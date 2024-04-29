@@ -1,0 +1,10 @@
+.bg{
+    background: rgba(255, 255, 255, 0.3);
+}
+#demo i{
+    color: blue;
+}
+#services img{
+    height: 150px;
+    width: 150px;
+}
